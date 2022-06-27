@@ -4,6 +4,7 @@ queen: An excellent FPGA Technology Mapper for both Area and Performance
 ### queen Vs. ABC-if
 benchmark: EPFL
 
+### area-oriented mapping for K = 6
 The circuits have been optimized by "resyn, resyn2" scripts of ABC before mapping. 
 
 | Benchmark name | Inputs | Outputs | ABC-if | queen | ratio |
@@ -30,3 +31,4 @@ The circuits have been optimized by "resyn, resyn2" scripts of ABC before mappin
 |  Voter | 1001 | 1 | 1279 | 1940 | 1607 | -17% |
 
 #### Note: queen can be obtained by an ABC commmand "queen" contained in the bin/abc.
+#### Contact me for bug report: lffan20@fudan.edu.cn
