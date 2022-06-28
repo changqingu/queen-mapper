@@ -1,10 +1,11 @@
 # queen-mapper
-queen: An excellent FPGA Technology Mapper for both Area and Performance
+queen: An excellent FPGA Technology Mapper for both Area and Performance.
 
 ### queen Vs. ABC-if
 
 ### area-oriented mapping for K = 6
-benchmark: EPFL. 
+#### benchmark: EPFL
+
 The circuits have been optimized by "resyn, resyn2" scripts of ABC before mapping. 
 
 | Benchmark name | Inputs | Outputs | ABC-if | queen | ratio |
