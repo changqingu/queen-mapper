@@ -29,7 +29,7 @@ The circuits have been optimized by "resyn, resyn2" scripts of ABC before mappin
 |  Memory controller  |  1204  | 1231  | 11448 | 11172 | -2% |
 |  Priority encoder  |  128  | 8  | 216 | 174 | -19% |
 |  Lookahead XY router | 60 |30 | 74 | 48 | -35% |
-|  Voter | 1001 | 1 | 1279 | 1940 | 1607 | -17% |
+|  Voter | 1001 | 1 | 1940 | 1607 | -17% |
 
 #### Note: queen can be obtained by an ABC commmand "queen" contained in the bin/abc.
 #### Contact me for bug report: changqingfans@gmail.com
